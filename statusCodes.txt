@@ -1,0 +1,16 @@
+types of status code
+
+100 - informational response
+200 - success code
+300 - code for a redirect
+400 - user or client error
+500 - server error codes
+
+A few examples 
+
+200 - ok 
+301 - resource moved
+404 - Page does not exist or is not found
+500 - Internal Server error
+
+---- link in slack for more code meanings about these ----
